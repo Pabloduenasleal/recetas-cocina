@@ -1,18 +1,27 @@
 # Tarta de manzana
 
-Postre fácil y delicioso con ingrediente principal la manzana.
+Este archivo te enseñará la lista de ingredientes y el paso a paso de cómo hacer una tarta de manzana casera de forma rápida y sencilla.
 
-## Ingredientes
-- 2 manzanas
-- 2 huevos
-- 100 g de azúcar
-- 150 g de harina
+## Ingredientes necesarios:
 
-## Preparación
-1. Pelar y cortar las manzanas.
-2. Mezclar todos los ingredientes.
-3. Poner la mezcla en un molde.
-4. Hornear a 180 °C durante 30 minutos.
+- 4 manzanas.
+- 150 g de mantequilla.
+- 8 cucharadas de azúcar.
+- 1 huevo.
+- 6 cucharadas de harina de trigo.
+- 2 cucharaditas de levadura química.
 
-**Autor:** Alejandro Molina  
-**GitHub:** alemolmad
+### Para el glaseado (opcionales):
+
+- 5 cucharadas de mermelada de albaricoque.
+- 7 cucharadas de agua.
+- 5 cucharadas de azúcar.
+
+## Pasos a seguir:
+
+1. Precalentamos el horno a 180 grados. 
+2. Engrasamos con un poco de mantequilla o margarina un molde redondo de unos 24 centímetros de diámetro. 
+3. Echamos la masa y horneamos durante 30 minutos. Mientras, en un cacito, calentamos la mermelada, el agua y el azúcar.
+4. Recién salga la tarta del horno vertemos por encima el glaseado para que lo absorba el pastel. 
+
+---Zakaria Belhafid Hamdaouy
