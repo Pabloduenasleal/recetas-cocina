@@ -23,3 +23,5 @@ Este archivo te enseñará la lista de ingredientes y el paso a paso de cómo ha
 2. Engrasamos con un poco de mantequilla o margarina un molde redondo de unos 24 centímetros de diámetro. 
 3. Echamos la masa y horneamos durante 30 minutos. Mientras, en un cacito, calentamos la mermelada, el agua y el azúcar.
 4. Recién salga la tarta del horno vertemos por encima el glaseado para que lo absorba el pastel. 
+
+---Zakaria Belhafid Hamdaouy
